@@ -3,7 +3,7 @@
 <nav>
   <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;">
     <a href="/" style="padding: 14px 17px; font-size: 22px;">Home</a>
-    <a href="./about.html" style="padding: 14px 17px;font-size: 22px;">About</a>
+    <a href="./about.md" style="padding: 14px 17px;font-size: 22px;">About</a>
     <a href="./blogs.html" style="padding: 14px 17px;font-size: 22px;">Blogs</a>
   </ul>
 </nav>
