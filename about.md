@@ -1,8 +1,4 @@
----
-layout: default
-title: About
-permalink: /about
----
+
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
 <p align="center">
