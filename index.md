@@ -1,4 +1,4 @@
-[About Section](#about)
+[About]({% link about.md %})
 
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
