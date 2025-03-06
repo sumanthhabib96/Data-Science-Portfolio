@@ -29,4 +29,4 @@ navbar-links:
 
 # Build settings
 markdown: kramdown
-theme: Dinki # replace with your chosen theme's name
+remote_theme: pages-themes/dinky@v0.1.0 # replace with your chosen theme's name
