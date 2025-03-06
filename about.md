@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/ 
 ---
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
