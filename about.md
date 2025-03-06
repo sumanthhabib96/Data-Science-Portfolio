@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About 
+title: About
 ---
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
