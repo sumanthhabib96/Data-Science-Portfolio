@@ -4,6 +4,24 @@
   <img src="images/Profile_Pic.png" alt="Profile Picture" width="200" height="200" style="border-radius: 100%;">
 </p>
 
+<h1 align="center">Welcome to My Data Science Portfolio</h1>
+
+<p align="center">
+  <img src="images/Profile_Pic.png" alt="Profile Picture" width="200" height="200" style="border-radius: 100%;">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumanth-habib">
+    <img src="images/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="mailto:sumanthhabib@gmail.com">
+    <img src="images/png-transparent-gmail-email-computer-icons-google-logo-gmail-angle-rectangle-triangle-thumbnail.png" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="tel:91-9886461466">
+    <img src="images/png-transparent-blue-phone-inside-circle-icon-telephone-call-symbol-smartphone-ringing-phone-miscellaneous-blue-text-thumbnail.png" alt="Phone" width="40" height="40" style="margin: 0 10px;">
+  </a>
+</p>
+
 I'm **Sumanth Habib**, a freelance data scientist specializing in machine learning and data analysis. With a passion for transforming complex data into actionable insights, I collaborate with businesses to drive data-driven decisions and foster growth.
 
 ## What I Do
