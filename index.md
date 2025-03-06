@@ -44,20 +44,19 @@ I'm **Sumanth Habib**, a freelance data scientist specializing in machine learni
 
 - **Collaboration:** Working closely with you, I ensure that my analyses and models integrate seamlessly with your business processes.
 
-Explore my portfolio to see how I've helped businesses like yours leverage data for success. Let's connect and discuss how I can assist you in achieving your data-driven objectives.
-
-# [Project 1: Customer Churn Rate Prediction](https://github.com/sumanthhabib96/Customer-churn-Rate-Prediction)
-Churn rate is a marketing metric that describes the number of customers who leave a business over a specific time period. . Every user is assigned a prediction value that estimates their state of churn at any given time. This value is based on: User demographic information Browsing behavior Historical purchase data among other information It factors in our unique and proprietary predictions of how long a user will remain a customer. This score is updated every day for all users who have a minimum of one conversion. The values assigned are between 1 and 5.
+<p>Explore my portfolio to see how I've helped businesses like yours leverage data for success. Let's connect and discuss how I can assist you in achieving your data-driven objectives.</p>
+<h1><a href="https://github.com/sumanthhabib96/Customer-churn-Rate-Prediction">Project 1: Customer Churn Rate Prediction</a></h1>
+<p>Churn rate is a marketing metric that describes the number of customers who leave a business over a specific time period. . Every user is assigned a prediction value that estimates their state of churn at any given time. This value is based on: User demographic information Browsing behavior Historical purchase data among other information It factors in our unique and proprietary predictions of how long a user will remain a customer. This score is updated every day for all users who have a minimum of one conversion. The values assigned are between 1 and 5.</p>
 
 <div align="center">
-  <img src="images/1_YEBB4XJvcabjp1vL37LLQQ.png" alt="Project Logo" width="600" height="300">
+<img src="images/1_YEBB4XJvcabjp1vL37LLQQ.png" alt="Project Logo" width="600" height="300">
 </div>
 
-# [Project 2: Car price Prediction](https://github.com/sumanthhabib96/Car_Price_Prediction)
-The objective of this project is to develop a machine learning model that predicts used car prices by analyzing various influential factors such as manufacturer, age, mileage, engine specifications, and seating capacity. By employing regression techniques and boosting algorithms, the project aims to identify key determinants affecting car prices and construct a predictive model capable of providing accurate valuations for used vehicles
+<h1><a href="https://github.com/sumanthhabib96/Car_Price_Prediction">Project 2: Car price Prediction</a></h1>
+<p>The objective of this project is to develop a machine learning model that predicts used car prices by analyzing various influential factors such as manufacturer, age, mileage, engine specifications, and seating capacity. By employing regression techniques and boosting algorithms, the project aims to identify key determinants affecting car prices and construct a predictive model capable of providing accurate valuations for used vehicles</p>
 
 <div align="center">
-  <img src="images/car.png" alt="Project Logo" width="600" height="300">
+<img src="images/car.png" alt="Project Logo" width="600" height="300">
 </div>
 
 
