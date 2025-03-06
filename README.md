@@ -1,4 +1,4 @@
-<h1 align="center"> Data Science Portfolio </h1>
+# Data Science Portfolio 
 
 # Welcome to My Data Science Portfolio
 
