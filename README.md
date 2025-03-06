@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
 <nav>
-  <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;margin-right: 20">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/blogs">Blogs</a>
+  <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;">
+    <li><a href="/" style="padding: 14px 20px;">Home</a></li>
+    <li><a href="/about" style="padding: 14px 20px;">About</a></li>
+    <li><a href="/blogs" style="padding: 14px 20px;">Blogs</a></li>
   </ul>
 </nav>
 
