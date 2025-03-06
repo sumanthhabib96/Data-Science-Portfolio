@@ -2,9 +2,9 @@
 
 <nav>
   <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;">
-    <a href="/" style="padding: 14px 20px;">Home</a>
-    <a href="/about" style="padding: 14px 20px;">About</a>
-    <a href="/blogs" style="padding: 14px 20px;">Blogs</a>
+    <a href="/" style="padding: 14px 17px; font-size: 17px;">Home</a>
+    <a href="/about" style="padding: 14px 17px;font-size: 17px;">About</a>
+    <a href="/blogs" style="padding: 14px 17px;font-size: 17px;">Blogs</a>
   </ul>
 </nav>
 
