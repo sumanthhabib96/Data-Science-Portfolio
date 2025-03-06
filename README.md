@@ -1,10 +1,8 @@
 <h1 align="center">Welcome to My Data Science Portfolio </h1>
 
 <p align="center">
-  <img src="images/Profile_Pic.png" alt="Profile Picture" width="100" height="100" style="border-radius: 100%;">
+  <img src="images/Profile_Pic.png" alt="Profile Picture" width="200" height="200" style="border-radius: 100%;">
 </p>
-
-
 
 I'm **Sumanth Habib**, a freelance data scientist specializing in machine learning and data analysis. With a passion for transforming complex data into actionable insights, I collaborate with businesses to drive data-driven decisions and foster growth.
 
