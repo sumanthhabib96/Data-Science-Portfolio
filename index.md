@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
 <nav>
