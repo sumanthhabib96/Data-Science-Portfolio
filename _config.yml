@@ -4,7 +4,6 @@ show_downloads: true
 theme: jekyll-theme-hacker
 header_pages:
   - about.md
-  - blogs.md
 navigation:
   - Home: /
   - About: /about
