@@ -4,3 +4,7 @@ show_downloads: true
 theme: jekyll-theme-hacker
 header_pages:
   - about.md
+navigation:
+  - Home: /
+  - About: /about
+  - Contact: /contact
