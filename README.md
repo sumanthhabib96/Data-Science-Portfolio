@@ -1,6 +1,4 @@
-<h1 align="center">Data Science Portfolio</h1>
-
-# Welcome to My Data Science Portfolio
+<h1 align="center">Welcome to My Data Science Portfolio </h1>
 
 I'm **Sumanth Habib**, a freelance data scientist specializing in machine learning and data analysis. With a passion for transforming complex data into actionable insights, I collaborate with businesses to drive data-driven decisions and foster growth.
 
