@@ -11,6 +11,9 @@
   <a href="mailto:sumanthhabib@gmail.com">
     <img src="images/png-transparent-gmail-email-computer-icons-google-logo-gmail-angle-rectangle-triangle-thumbnail.png" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
   </a>
+   <a href="https://github.com/sumanthhabib96">
+    <img src="images/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="Phone" width="40" height="40" style="margin: 0 10px;">
+  </a>
   <a href="tel:919886461466">
     <img src="images/png-transparent-blue-phone-inside-circle-icon-telephone-call-symbol-smartphone-ringing-phone-miscellaneous-blue-text-thumbnail.png" alt="Phone" width="40" height="40" style="margin: 0 10px;">
   </a>
@@ -48,6 +51,8 @@ The objective of this project is to develop a machine learning model that predic
   <img src="images/car.png" alt="Project Logo" width="600" height="300">
 </div>
 
-# Phone
+# PHONE
 (+91) 9886461466
 
+# EMAIL
+sumanthhabib@gmail.com
