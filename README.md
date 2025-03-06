@@ -25,4 +25,10 @@ Churn rate is a marketing metric that describes the number of customers who leav
   <img src="images/1_YEBB4XJvcabjp1vL37LLQQ.png" alt="Project Logo" width="600" height="300">
 </div>
 
+# [Project 2: Car price Prediction](https://github.com/sumanthhabib96/Car_Price_Prediction)
+The objective of this project is to develop a machine learning model that predicts used car prices by analyzing various influential factors such as manufacturer, age, mileage, engine specifications, and seating capacity. By employing regression techniques and boosting algorithms, the project aims to identify key determinants affecting car prices and construct a predictive model capable of providing accurate valuations for used vehicles
+
+<div align="center">
+  <img src="images/car.png" alt="Project Logo" width="600" height="300">
+</div>
 
