@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: Data-Science-Portfolio/about/
 ---
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
