@@ -1,0 +1,32 @@
+# Site settings
+title: Your Site Title
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A brief description of your site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: Your Name
+  avatar: /assets/img/avatar.png
+  bio: A short bio about yourself.
+
+# Social links
+social:
+  twitter: yourusername
+  github: yourusername
+  linkedin: yourusername
+
+# Navigation links
+navbar-links:
+  - text: "Home"
+    url: "/"
+  - text: "About"
+    url: "/about/"
+  - text: "Blog"
+    url: "/blog/"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-name # replace with your chosen theme's name
