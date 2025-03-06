@@ -11,7 +11,7 @@
   <a href="mailto:sumanthhabib@gmail.com">
     <img src="images/png-transparent-gmail-email-computer-icons-google-logo-gmail-angle-rectangle-triangle-thumbnail.png" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
   </a>
-  <a href="tel:91-9886461466">
+  <a href="tel:919886461466">
     <img src="images/png-transparent-blue-phone-inside-circle-icon-telephone-call-symbol-smartphone-ringing-phone-miscellaneous-blue-text-thumbnail.png" alt="Phone" width="40" height="40" style="margin: 0 10px;">
   </a>
 </p>
