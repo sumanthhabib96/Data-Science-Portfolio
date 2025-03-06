@@ -1,5 +1,6 @@
 title: Sumanth Habib
+include:
+  - "![Alt text](images/Profile_Pic.png)"
 description: Welcome to My Data Science Portfolio!!
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-dinky
