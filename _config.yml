@@ -2,10 +2,4 @@ title: Sumanth Habib
 description: Data Scientist @ Tiger Analytics!!
 show_downloads: true
 theme: jekyll-theme-hacker
-header_pages:
-  - README.md
-  - about.md
-navigation:
-  - Home: /
-  - About: /about
-  - Blogs: /blogs
+
