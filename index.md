@@ -1,4 +1,7 @@
+## About
+# This is the about section content.
 
+[About Section](#about)
 
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
