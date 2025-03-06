@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
 <nav>
-  <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;margin-right: 20px">
+  <ul style="display: flex; justify-content: flex-end; list-style-type: none; margin: 0; padding: 0;margin-right: 20">
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/blogs">Blogs</a>
