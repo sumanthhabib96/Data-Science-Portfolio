@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to My Data Science Portfolio </h1>
 
 <p align="center">
-  <img src="images/Profile_Pic.png" alt="Description" width="150" height="200" style="border-radius: 30%;">
+  <div style="background-color: red; width: 150px; height: 200px; border-radius: 60%; display: flex; justify-content: center; align-items: center;">
+    <img src="images/Profile_Pic.png" alt="Description" width="150" height="200" style="border-radius: 60%;">
+  </div>
 </p>
 
 
