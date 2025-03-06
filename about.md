@@ -1,7 +1,7 @@
 ---
 layout: page11
 title: About
-permalink: /about
+permalink: /about 
 ---
 <h1 align="center">Welcome to My Data Science Portfolio</h1>
 
